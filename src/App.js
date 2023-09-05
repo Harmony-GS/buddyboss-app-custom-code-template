@@ -4,7 +4,7 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 import Vista1 from './views/view';
 import Vista2 from './views/view2';
 
-import * as Font from 'expo-font'; // If you are using Expo
+import * as Font from 'expo-font'; 
 
 const Tab = createMaterialTopTabNavigator();
 
